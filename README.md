@@ -1,6 +1,6 @@
 # TestOS
 
-A DOS-like 32-bit operating system built from scratch, featuring a custom bootloader, FAT12 filesystem, protected-mode kernel, command-line shell, and file editor.
+A DOS-like 32-bit operating system built from scratch, featuring a custom bootloader, FAT12 filesystem, protected-mode kernel, command-line shell, and file editor. It's super mid, but was good practice.
 
 ---
 
