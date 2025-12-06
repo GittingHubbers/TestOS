@@ -1,0 +1,6 @@
+qemu-system-i386 \
+  -drive id=disk,file=build/main.img,format=raw,if=none \
+  -device ide-hd,drive=disk,cyls=80,heads=2,secs=18 \
+  -boot c \
+  -m 256 \
+  -no-reboot -no-shutdown
