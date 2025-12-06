@@ -4,8 +4,6 @@ A DOS-like 32-bit operating system built from scratch, featuring a custom bootlo
 
 ---
 
-## 🚀 Getting Started
-
 Follow the steps below to build the OS image and launch it in QEMU.
 
 ### 1. Build the OS Image
